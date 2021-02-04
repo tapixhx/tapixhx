@@ -13,10 +13,12 @@
   <img align="left" alt="Tapish's Instagram" width="28px" src="./svgs/instagram.svg" />
 </a>
 <br/>
+<hr>
 <h3>🔭 Have a look at my work 👇</h3><a href="https://github.com/tapixhx">
   <img alt="Tapish's Github" width="28px" src="./pngs/github.png" />
 </a>
 <br/>
+<hr>
 <h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://www.hackerrank.com/tapixhx">
   <img align="left" alt="Tapish's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
@@ -24,7 +26,7 @@
 <br/>
 <br/>
 
-<h2> ✔️ Tools and Techs Used by me ;)</h2>
+<h2> ✔️ Tools and Techs Used by me 👇</h2>
 <img align="left" alt="Tapish's Angular" width="28px" src="./svgs/angular.svg" />
 <img align="left" alt="Tapish's React" width="28px" src="./pngs/react.png" />
 <img align="left" alt="Tapish's Node" width="28px" src="./pngs/node.png" />
