@@ -1,7 +1,7 @@
-### Hi there 👋
-<h1 align="center">Hey there, I'm Tapish 👋</h1>
+<!-- ### Hi there 👋 -->
+<h1 align="center">Hey there, I'm Tapish <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Full-Stack Developer, App developer and a designer !</h3>
-<h3>⚫ Lets Connect 🤝</h3><
+<h3>⚫ Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/tapish-gupta-5b4822194/">
   <img align="left" alt="Tapish's Linkdein" width="28px" src="linkedin.svg" />
 </a>
