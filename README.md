@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Tapish <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Full-Stack Developer, App developer and a designer !</h3>
-<h3><img height="30" src="./gifs/soulgem-madoka.gif"/> Lets Connect 🤝</h3>
+<img src = "./pngs/banner.png" style="max-width:100%;"/>
+<h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/tapish-gupta-5b4822194/">
   <img align="left" alt="Tapish's Linkdein" width="28px" src="./svgs/linkedin.svg" />
 </a>
@@ -12,11 +13,11 @@
   <img align="left" alt="Tapish's Instagram" width="28px" src="./svgs/instagram.svg" />
 </a>
 <br/>
-<h3><img height="30" src="./gifs/soulgem-homura.gif"/> Have a look at my work 👇</h3><a href="https://github.com/tapixhx">
+<h3>🔭 Have a look at my work 👇</h3><a href="https://github.com/tapixhx">
   <img alt="Tapish's Github" width="28px" src="./pngs/github.png" />
 </a>
 <br/>
-<h3><img height="30" src="./gifs/soulgem-mami.gif"/> Have a look at my coding profiles 👇</h3>
+<h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://www.hackerrank.com/tapixhx">
   <img align="left" alt="Tapish's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
 </a>
@@ -34,7 +35,7 @@
 <img align="left" alt="Tapish's Dart" width="28px" src="./svgs/dart.svg" />
 <img align="left" alt="Tapish's C++" width="28px" src="./svgs/c.svg" />
 <img align="left" alt="Tapish's Firebase" width="28px" src="./pngs/firebase.png" />
-<img align="left" alt="Tapish's MongoDB" width="28px" src="./svgs/mongodb.svg" />
+<img align="left" alt="Tapish's MongoDB" width="28px" src="./pngs/mongodb.png" />
 <img align="left" alt="Tapish's CSS" width="28px" src="./svgs/clion.svg" />
 <img align="left" alt="Tapish's vs" width="28px" src="./svgs/vs.svg" />
 
