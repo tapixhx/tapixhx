@@ -57,11 +57,11 @@
 <br/>
 <br/>
 
-<h4>Visitor's count :eyes:</h4>
+<h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/{tapixhx}/count.svg" alt="Tapish's :: Visitor's Count" /></p>
 
-<h4>Top langs :tongue:</h4>
+<h2>⚡ Top langs :tongue:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapixhx&langs_count=10&theme=tokyonight&layout=compact" alt="Tapish's :: Top Langs" /></p>
 
