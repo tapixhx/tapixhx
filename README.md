@@ -57,7 +57,13 @@
 <br/>
 <br/>
 
-  ![Profile views](https://gpvc.arturio.dev/tapixhx)
+<h4>Visitor's count :eyes:</h4>
+
+<p><img src="https://profile-counter.glitch.me/{tapixhx}/count.svg" alt="Tapish's :: Visitor's Count" /></p>
+
+<h4>Top langs :tongue:</h4>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapixhx&langs_count=10&theme=tokyonight&layout=compact" alt="Tapish's :: Top Langs" /></p>
 
 <!--
 **tapixhx/tapixhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
