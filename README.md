@@ -14,8 +14,12 @@
 </a>
 <br/>
 
-<h3>🔭 Have a look at my work 👇</h3><a href="https://github.com/tapixhx">
+<h3>🔭 Have a look at my work 👇</h3>
+<a href="https://github.com/tapixhx">
   <img alt="Tapish's Github" width="28px" src="./pngs/github.png" />
+</a>
+<a href="https://www.behance.net/tapishgupta">
+  <img alt="Tapish's Behance" width="28px" src="./svgs/behance.svg" />
 </a>
 <br/>
 
@@ -28,7 +32,7 @@
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
 <img align="left" alt="Tapish's Angular" width="28px" src="./svgs/angular.svg" />
-<img align="left" alt="Tapish's React" width="28px" src="./pngs/react.png" />
+<img align="left" alt="Tapish's React" width="28px" src="./svgs/react.svg" />
 <img align="left" alt="Tapish's Node" width="28px" src="./pngs/node.png" />
 <img align="left" alt="Tapish's Flutter" width="28px" src="./pngs/flutter.png" />
 <img align="left" alt="Tapish's HTML" width="28px" src="./svgs/html5.svg" />
